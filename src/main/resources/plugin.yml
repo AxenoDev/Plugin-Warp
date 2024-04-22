@@ -1,0 +1,9 @@
+name: warp
+main: fr.axeno.warp.Warp
+description: Plugin de warp avec menu.
+version: 1.0.0
+author: Axeno_Off
+api-version: 1.8
+commands:
+  warp:
+    description: Commande de warp.

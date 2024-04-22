@@ -1,0 +1,5 @@
+/target
+*.class
+/server
+src/test
+src/test/java/fr/axeno/PluginTest.java
